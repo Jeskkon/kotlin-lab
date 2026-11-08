@@ -1,4 +1,4 @@
-package main
+package main.basics
 
 fun main(){
     //?. - safe call -----------------------------
