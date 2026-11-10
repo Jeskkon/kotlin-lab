@@ -1,1 +1,1 @@
-Kotlin drafts / not a project.
+This repository contains my notes on Kotlin. I’ll be glad if they be useful to anyone.
