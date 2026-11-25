@@ -21,6 +21,17 @@ enum class ClothSize{
     S,
 }
 
+enum class ItemType{
+    CLOTH,
+    ELECTRONICS,
+    BOOKS,
+}
+
+data class Item(
+    val id: Int,
+    val type: ItemType,
+)
+
 data class Cloth(
     val type: ClothType,
     val color: Color,
